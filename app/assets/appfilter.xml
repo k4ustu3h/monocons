@@ -3074,6 +3074,7 @@
   <item component="ComponentInfo{com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge/com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge.MainActivityDaylight}" drawable="kotak811" name="Kotak811" />
   <item component="ComponentInfo{io.github.a13e300.ksuwebui/io.github.a13e300.ksuwebui.MainActivity}" drawable="ksuwebui" name="KsuWebUI" />
   <item component="ComponentInfo{com.kubi.kucoin/com.kubi.kucoin.feature.SplashActivity}" drawable="kucoin" name="Kucoin" />
+  <item component="ComponentInfo{com.kueski.os/com.kueski.os.MainActivity}" drawable="kueski" name="Kueski" />
   <item component="ComponentInfo{de.mm20.launcher2.debug/de.mm20.launcher2.ui.launcher.LauncherActivity}" drawable="kvaesitso" name="Kvaesitso" />
   <item component="ComponentInfo{de.mm20.launcher2.release/de.mm20.launcher2.ui.launcher.LauncherActivity}" drawable="kvaesitso" name="Kvaesitso" />
   <item component="ComponentInfo{de.mm20.launcher2.release/de.mm20.launcher2.ui.legacy.activity.LauncherActivity}" drawable="kvaesitso" name="Kvaesitso" />
@@ -3184,6 +3185,7 @@
   <item component="ComponentInfo{com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.LauncherActivity}" drawable="live_transcribe" name="Live Transcribe" />
   <item component="ComponentInfo{com.graytsar.livewallpaper/com.graytsar.livewallpaper.ReibuActivity}" drawable="generic_player" name="Live Wallpaper" />
   <item component="ComponentInfo{com.wallpaper.liveloop/com.wallpaper.liveloop.splashScreen}" drawable="liveloop" name="LiveLoop" />
+  <item component="ComponentInfo{mx.com.liverpool.shoppingapp/mx.com.liverpool.shoppingapp.icon.AppIcon}" drawable="liverpool" name="Liverpool" />
   <item component="ComponentInfo{com.camera.lmc83r1i/com.android.camera.CameraLauncher}" drawable="generic_camera" name="LMC8.3i" />
   <item component="ComponentInfo{org.localsend.localsend_app/org.localsend.localsend_app.MainActivity}" drawable="localsend" name="LocalSend" />
   <item component="ComponentInfo{com.xfarrow.locatemydevice/com.xfarrow.locatemydevice.MainActivity}" drawable="generic_shell" name="Locate My Device" />
@@ -3206,6 +3208,7 @@
   <item component="ComponentInfo{org.lsposed.manager/org.lsposed.manager.ui.activity.MainActivity}" drawable="lsposed" name="LSPosed Manager" />
   <item component="ComponentInfo{rs.ltt.android/rs.ltt.android.ui.activity.MainActivity}" drawable="generic_email" name="Ltt.rs" />
   <item component="ComponentInfo{com.alif.ide.lua/com.alif.app.AppActivity}" drawable="generic_braces" name="LuaDroid" />
+  <item component="ComponentInfo{com.cogwheel.LuCIMobile/com.cogwheel.LuCIMobile.MainActivity}" drawable="luci_mobile" name="LuCI Mobile" />
   <item component="ComponentInfo{com.skylum.luminar/com.skylum.luminar.MainActivity}" drawable="luminar" name="Luminar" />
   <item component="ComponentInfo{com.anticor.lumosdark/com.anticor.lumosdark.activities.SplashActivity}" drawable="lumos_icons" name="Lumos Dark Icons" />
   <item component="ComponentInfo{com.anticor.lumosdark_r/com.anticor.lumosdark_r.activities.SplashActivity}" drawable="lumos_icons" name="Lumos Dark Rounded UI Icons" />
@@ -3564,6 +3567,7 @@
   <item component="ComponentInfo{k4ustu3h.monocons.light/k4ustu3h.monocons.MainActivity}" drawable="monocons" name="Monocons light" />
   <item component="ComponentInfo{org.monogram/org.monogram.app.MainActivity}" drawable="monogram" name="MonoGram" />
   <item component="ComponentInfo{com.ustwo.monumentvalley/com.ustwo.deviceutil.MainActivity}" drawable="monument_valley" name="Monument Valley" />
+  <item component="ComponentInfo{com.mooneva.app/com.mooneva.app.LauncherDefault}" drawable="mooneva_cycle" name="Mooneva Cycle" />
   <item component="ComponentInfo{org.mopria.printplugin/com.google.android.archive.ReactivateActivity}" drawable="generic_printer" name="Mopria Print Service" />
   <item component="ComponentInfo{org.mopria.printplugin/org.mopria.printplugin.ShareToPrintActivity}" drawable="generic_printer" name="Mopria Print Service" />
   <item component="ComponentInfo{org.mopria.printplugin/org.mopria.printplugin.AddPrivateCloudServiceActivity}" drawable="generic_printer" name="Mopria Print Service" />
@@ -3635,6 +3639,7 @@
   <item component="ComponentInfo{us.spotco.mulch/com.google.android.apps.chrome.Main}" drawable="google_chrome" name="Mulch" />
   <item component="ComponentInfo{ai.bohemian.multipolls/ai.bohemian.multipolls.MainActivity}" drawable="multipolls" name="MultiPolls" />
   <item component="ComponentInfo{com.flawlessconcepts.mvb_bible/com.flawlessconcepts.mvb_bible.MainActivity}" drawable="generic_bible" name="Multiversions Bible" />
+  <item component="ComponentInfo{app.murinelauncher/com.android.launcher3.Launcher}" drawable="murine_launcher" name="Murine Launcher" />
   <item component="ComponentInfo{com.kwasow.musekit/com.kwasow.musekit.MainActivity}" drawable="musekit" name="Musekit" />
   <item component="ComponentInfo{com.kyant.vanilla/com.kyant.vanilla.MainActivity}" drawable="music" name="Music" />
   <item component="ComponentInfo{com.miui.player/.ui.MusicBrowserActivity}" drawable="music" name="Music" />
@@ -6510,6 +6515,7 @@
   <item component="ComponentInfo{com.graymatrix.did/com.graymatrix.did.splash.SplashActivity}" drawable="zee5" name="ZEE5" />
   <item component="ComponentInfo{com.graymatrix.did/com.applicaster.componentsapp.IntroActivity}" drawable="zee5" name="ZEE5" />
   <item component="ComponentInfo{com.graymatrix.did/com.zee5.splash.SplashActivity}" drawable="zee5" name="ZEE5" />
+  <item component="ComponentInfo{com.zen.application/com.zen.entrypoint.presentation.EntryPointActivity}" drawable="zen_com" name="ZEN.COM" />
   <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="asus_contacts" name="ZenUI Dialer &amp; Contacts" />
   <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}" drawable="asus_contacts" name="ZenUI Dialer &amp; Contacts" />
   <item component="ComponentInfo{com.asus.dialer/com.android.contacts.activities.DialtactsActivity}" drawable="generic_dialer" name="ZenUI Dialer &amp; Contacts" />
